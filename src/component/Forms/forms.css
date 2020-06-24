@@ -1,0 +1,57 @@
+.formulaire{
+    background-image: url('/../image/vegetables-3193196_1920.jpg');
+    background-position: top;
+    height: 250px;
+    font-family: 'Sriracha', cursive;
+    padding-left: 20px;
+}
+
+.header{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.8rem;
+    padding-left: 30px;
+}
+
+.form-app{
+    display: block;
+    margin: 100px auto;
+     
+    padding: 100px 100px 100px 100px;
+    height: 100px;
+    width: 400px;
+    margin: 0;
+    margin: 0 auto;
+}
+
+ 
+ 
+.displa-flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.search-input{
+    color: #595f6e;
+    height: 35px;
+    border-radius: 4px;
+    flex: 4;
+   
+    padding-right: 50px;
+}
+.search-button{
+    flex: 1;
+    margin-left: -100px;
+    margin-top: 4px;
+    border: none;
+    background-color: rgba(59, 51, 51, 0.836);
+    color: white;
+    border-radius: 6px;
+    height: 33px;
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+/* .search-input .fa {
+    height: 100px;
+} */
